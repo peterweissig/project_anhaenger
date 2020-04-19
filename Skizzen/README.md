@@ -6,12 +6,12 @@
 * Seitentür rechts
 * Fenster rechts und vorne
 * mit Dachfenster
-* Bettkonstruktion aus Aluprofilen
+* [verschiedene Bettkonstruktionen](Bettkonstruktion.md) aus Aluprofilen
 * **die Konstruktion ist noch nicht fertig**
 
-<img src="02_inventor/export/2020_04_13/anhaenger_gesamt__schraeg.png" width="500">
+<img src="02_inventor/export/2020_04_19/anhaenger_schraeg.png" width="500">
 
-<img src="02_inventor/export/2020_04_13/anhaenger_gesamt__oben.png"    width="500">
+<img src="02_inventor/export/2020_04_19/anhaenger_oben.png"    width="500">
 
 
 ## Erste Skizzen
