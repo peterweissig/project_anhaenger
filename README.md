@@ -1,12 +1,16 @@
 # Anhaenger
 Zeichnungen und Ideen zum Reise- und Transportanhänger
 
+
+
 ## Ziele
 Der Anhänger soll ein **Transportanhänger** bleiben. \
 Es müssen also alle Einbauten entweder herausnehmbar oder wegklappbar sein.
 
 Darüberhinaus soll er als Schlaf- und **Campinganhänger** genutzt werden. \
 Hierfür benötigt er Fenster, eine Liegefläche und mind. einen Klapptisch.
+
+
 
 ## Aktueller Stand
 Basis ist ein 2,0t Anhänger vom Humbaur:
@@ -31,8 +35,14 @@ Liege- und Sitzgruppe:
 * abklappbar zu 2 Sitzbänken (2,20m x 0,40m)
 * je Seite 2 (unabhängige) Elemente (a 1,10m)
 
-_add image_
-  
+<img src="Skizzen/02_inventor/export/2020_04_13/anhaenger_gesamt__schraeg.png" width="250" align="left">
+<img src="Skizzen/02_inventor/export/2020_04_13/anhaenger_gesamt__oben.png"    width="250">
+
+<img src="Skizzen/01_sweethome/export/2020_01_23/innen_essen.jpg"              width="250" align="left">
+<img src="Skizzen/01_sweethome/export/2020_01_23/oben_liegen.jpg"              width="250">
+
+
+
 ## Inspiration
 ### Dreamboxxx
 [Artikel auf adventuremedia4u.de](https://www.adventuremedia4u.de/caravans/offroadanhaenger/dreamboxx.html) \
