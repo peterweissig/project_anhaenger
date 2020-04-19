@@ -14,7 +14,7 @@ Hierfür benötigt er Fenster, eine Liegefläche und mind. einen Klapptisch.
 
 Details siehe [Skizzen](Skizzen/)
 
-<img src="Skizzen/02_inventor/export/2020_04_13/anhaenger_gesamt__schraeg.png" width="300">
+<img src="Skizzen/02_inventor/export/2020_04_19/anhaenger_schraeg.png" width="300">
 
 ## Aktueller Stand
 Basis ist ein 2,0t Anhänger vom Humbaur:
