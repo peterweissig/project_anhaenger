@@ -9,8 +9,9 @@
 * kein Dachfenster
 * Bettkonstruktion aus Holz und ähnlich der Dreamboxxx
 
-<img src="01_sweethome/export/2020_01_23/oben_essen.jpg" width="300">
-<img src="01_sweethome/export/2020_01_23/oben_liegen.jpg" width="300">
+<img src="01_sweethome/export/2020_01_23/oben_essen.jpg"     width="300" align="left">
+<img src="01_sweethome/export/2020_01_23/oben_liegen.jpg"    width="300">
 
-<img src="01_sweethome/export/2020_01_23/innen_essen.jpg" width="300">
-<img src="01_sweethome/export/2020_01_23/aussen1_liegen.png" width="3000">
+
+<img src="01_sweethome/export/2020_01_23/innen_essen.jpg"    width="300" align="left">
+<img src="01_sweethome/export/2020_01_23/aussen1_liegen.png" width="300">
