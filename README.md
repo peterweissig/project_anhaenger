@@ -8,6 +8,29 @@ Es müssen also alle Einbauten entweder herausnehmbar oder wegklappbar sein.
 Darüberhinaus soll er als Schlaf- und **Campinganhänger** genutzt werden. \
 Hierfür benötigt er Fenster, eine Liegefläche und mind. einen Klapptisch.
 
+## Aktueller Stand
+Basis ist ein 2,0t Anhänger vom Humbaur:
+
+* [HK 203015-18P](https://werksverkauf.humbaur.com/anhaenger/kofferanhaenger/kofferanhaenger-detailansicht/modell/hk-203015-18p)
+* Innengröße (LxBxH): 3x1,5x1,8m
+* Tonnage: 615kg (Leermasse) zu 2,0t
+* 100km/h Zulassung (extra Stoßdämpfer)
+* Tandemachse mit 15 Zoll Reifen
+* Heckklappe für 500kg
+
+Statische Einbauten:
+
+* Dachfenster: Mini Heki von Dometic
+* 2 Fenster: Dometic S4
+* Klappbarer Tisch
+
+Liege- und Sitzgruppe:
+
+* Eigenkonstruktion
+* 2 halbe Liegeflächen (2,20m x 0,75m)
+* abklappbar zu 2 Sitzbänken (2,20m x 0,40m)
+* je Seite 2 (unabhängige) Elemente (a 1,10m)
+
 _add image_
   
 ## Inspiration
@@ -40,6 +63,6 @@ _add image_
 ### Godes Ausbaublog
 [Beitrag bei womobox.de](http://www.womobox.de/phpBB2/viewtopic.php?t=7486)
 
-* Basis ist ein Kühlkoffer als Tandem
+* Basis ist ein Tandemkoffer
 * Kühlkoffer (40mm PU isoliert)
 * 3,5t zGG
