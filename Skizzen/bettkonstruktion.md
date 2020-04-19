@@ -1,6 +1,6 @@
 # Bettkonstruktionen
 ## aktueller Entwurf (V3)
-* [Technische Zeichnung](/02_inventor/export/2020_04_19/bett_V3/bett_V3_zeichnung.pdf)
+* [Technische Zeichnung](02_inventor/export/2020_04_19/bett_V3/bett_V3_zeichnung.pdf)
 * Sitzreihe mit statischer Breite von **38cm**
 * Klappteil
     * 36,5cm breit
