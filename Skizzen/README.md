@@ -6,7 +6,7 @@
 * Seitentür rechts
 * Fenster rechts und vorne
 * mit Dachfenster
-* [verschiedene Bettkonstruktionen](Bettkonstruktion.md) aus Aluprofilen
+* [verschiedene Bettkonstruktionen](bettkonstruktion.md) aus Aluprofilen
 * **die Konstruktion ist noch nicht fertig**
 
 <img src="02_inventor/export/2020_04_19/anhaenger_schraeg.png" width="500">
